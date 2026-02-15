@@ -1,6 +1,8 @@
 # NETFLIX MOVIES & TV SHOWS SQL_Project
 This Project aims to analyze the Dataset from Netflix which contains the movies, their ratings , duration, streams and more. The goal was to extract valuable insights and answer various business questions based on the dataset. For a complete work through of the step by step analysis and sql code, check out the README files provided.
 
+<img width="2226" height="678" alt="logo" src="https://github.com/user-attachments/assets/75f4f64b-2fe0-4dce-b5bf-acae222ab7c8" />
+
 ## OBJECTIVES 
 1. Analyze the distributuion of content types (movies vs TV Shows).
 2. Identify the most common ratings for movies and TV Shows.
